@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Jp/main/Protected_5096142112509628.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/B/main/Protected_8459514361328038.lua.txt'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Hh/main/Blackist'))()
