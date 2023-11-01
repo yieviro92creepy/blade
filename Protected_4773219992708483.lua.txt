@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Blade ball load", -- Required
-	Text = "Disabler ant cheat", -- Required
+	Text = "Disabler anti cheat", -- Required
 	Icon = "rbxassetid://1404188196" -- Optional
 })
 
