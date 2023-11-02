@@ -4,4 +4,4 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1404188196" -- Optional
 })
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Beta-Myiev/main/Protected_3049705836817937.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Betaev2/main/Protected_2709347733780920.lua.txt'))()
