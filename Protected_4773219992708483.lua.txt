@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/blade/main/Protected_8573919066068336.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/blade/main/Protected_5314523930186858.lua.txt'))()
